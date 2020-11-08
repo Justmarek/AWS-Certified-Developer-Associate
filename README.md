@@ -1,2 +1,2 @@
 # AWS-Certified-Developer-Associate
-My study notes for the AWS Certified Developer - Associate examination
+My code snippets and notes for the AWS Certified Developer - Associate exam.
